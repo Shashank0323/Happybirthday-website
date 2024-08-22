@@ -84,3 +84,5 @@ body {
     font-family: monospace;
   
   }
+[class*="col-"] {
+  width: 100%;
